@@ -1,0 +1,6 @@
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\TaskExtra\bin\Debug\TaskExtra.exe.config
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\TaskExtra\bin\Debug\TaskExtra.exe
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\TaskExtra\bin\Debug\TaskExtra.pdb
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\TaskExtra\obj\Debug\TaskExtra.csprojAssemblyReference.cache
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\TaskExtra\obj\Debug\TaskExtra.exe
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\TaskExtra\obj\Debug\TaskExtra.pdb
