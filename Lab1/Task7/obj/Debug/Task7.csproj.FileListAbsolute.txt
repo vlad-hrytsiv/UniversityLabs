@@ -1,0 +1,5 @@
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\Task7\bin\Debug\Task7.exe.config
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\Task7\bin\Debug\Task7.exe
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\Task7\bin\Debug\Task7.pdb
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\Task7\obj\Debug\Task7.exe
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab1\Task7\obj\Debug\Task7.pdb
