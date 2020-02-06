@@ -1,0 +1,5 @@
+C:\Users\Vlad Hrytsiv\source\repos\Lab2\Example\bin\Debug\Example.exe.config
+C:\Users\Vlad Hrytsiv\source\repos\Lab2\Example\bin\Debug\Example.exe
+C:\Users\Vlad Hrytsiv\source\repos\Lab2\Example\bin\Debug\Example.pdb
+C:\Users\Vlad Hrytsiv\source\repos\Lab2\Example\obj\Debug\Example.exe
+C:\Users\Vlad Hrytsiv\source\repos\Lab2\Example\obj\Debug\Example.pdb
