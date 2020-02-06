@@ -21,12 +21,9 @@ namespace Loops
             Console.Write("\nВведите степень к которому подносить все четные числа от 0 к 110: ");
             int userPow2 = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 0; i <= 110; i++) // Aspirin дело говорит, i+=2 вместо i++
+            for (int i = 0; i <= 110; i+=2)
             {
-                if (i % 2 == 0)
-                {
-                    Console.WriteLine("Степень числа {0} равен {1}", i, Math.Pow(i, userPow2));
-                }
+                Console.WriteLine("Степень числа {0} равен {1}", i, Math.Pow(i, userPow2));
             }
         }
     }
