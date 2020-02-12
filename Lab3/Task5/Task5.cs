@@ -8,50 +8,30 @@ namespace Task5
 {
     class Task5
     {
+        static bool CheckExpression(int number){
+            if (number % 2 == 0){
+                if (number % 3 != 0 && number % 4 == 0){
+                    return true;
+                } else if (number % 7 == 0 && number % 4 != 0) {
+                    return true;
+                } else if (number % 2 == 0 && number % 14 == 0){
+                    return true;
+                } else {
+                    return false;
+                }
+            } else {
+                return false;
+            }
+        }
+
         static void Main(string[] args)
         {
             Console.Write("Введите число А: ");
             int userValue = Convert.ToInt32(Console.ReadLine());
-
-            bool expressionFirst = false; 
-            bool expressionSecond = false; 
-            bool expressionThird = false;
-
-            if (userValue % 2 == 0)
-            {
-                if (userValue % 3 != 0)
-                {
-                    if (userValue % 4 == 0)
-                    {
-                        expressionFirst = true;
-                    }
-                }
-            }
-
-            if (userValue % 7 == 0)
-            {
-                if (userValue % 4 != 0)
-                {
-                    expressionSecond = true;
-                }
-            }
-
-            if (userValue % 2 == 0)
-            {
-                if (userValue % 14 == 0)
-                {
-                    expressionThird = true;
-                }
-            }
-
-            bool finalExpression = expressionFirst && expressionSecond && expressionThird;
-
-            if (finalExpression)
-            {
-                Console.WriteLine("Логическое выражение есть истенным!");
-            } else
-            {
-                Console.WriteLine("Логическое выражение не может быть истенным!");
+            if (CheckExpression(userValue)){
+                Console.WriteLine("Выражение истенное!");
+            } else {
+                Console.WriteLine("Выражение ложное!");
             }
         }
     }
