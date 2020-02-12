@@ -3,3 +3,9 @@ C:\Users\Vlad Hrytsiv\source\repos\Lab2\Expressions\bin\Debug\Expressions.exe
 C:\Users\Vlad Hrytsiv\source\repos\Lab2\Expressions\bin\Debug\Expressions.pdb
 C:\Users\Vlad Hrytsiv\source\repos\Lab2\Expressions\obj\Debug\Expressions.exe
 C:\Users\Vlad Hrytsiv\source\repos\Lab2\Expressions\obj\Debug\Expressions.pdb
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\Expressions\bin\Debug\Expressions.exe.config
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\Expressions\bin\Debug\Expressions.exe
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\Expressions\bin\Debug\Expressions.pdb
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\Expressions\obj\Debug\Expressions.csprojAssemblyReference.cache
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\Expressions\obj\Debug\Expressions.exe
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\Expressions\obj\Debug\Expressions.pdb

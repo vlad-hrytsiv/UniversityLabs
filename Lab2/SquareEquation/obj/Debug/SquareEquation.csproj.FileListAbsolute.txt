@@ -3,3 +3,9 @@ C:\Users\Vlad Hrytsiv\source\repos\Lab2\SquareEquation\bin\Debug\SquareEquation.
 C:\Users\Vlad Hrytsiv\source\repos\Lab2\SquareEquation\bin\Debug\SquareEquation.pdb
 C:\Users\Vlad Hrytsiv\source\repos\Lab2\SquareEquation\obj\Debug\SquareEquation.exe
 C:\Users\Vlad Hrytsiv\source\repos\Lab2\SquareEquation\obj\Debug\SquareEquation.pdb
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\SquareEquation\bin\Debug\SquareEquation.exe.config
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\SquareEquation\bin\Debug\SquareEquation.exe
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\SquareEquation\bin\Debug\SquareEquation.pdb
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\SquareEquation\obj\Debug\SquareEquation.csprojAssemblyReference.cache
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\SquareEquation\obj\Debug\SquareEquation.exe
+C:\Users\Vlad Hrytsiv\Documents\GitHub\UniversityLabs\Lab2\SquareEquation\obj\Debug\SquareEquation.pdb
