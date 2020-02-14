@@ -30,13 +30,13 @@ namespace Task7
 
             if (withdrawUAH > withdrawEUR && withdrawUAH > withdrawUSD)
             {
-                Console.WriteLine("Самый выгодной вклад в гривне!");
+                Console.WriteLine("Самый выгодный вклад в гривне!");
             } else if  (withdrawEUR > withdrawUAH && withdrawEUR > withdrawUSD)
             {
-                Console.WriteLine("Самый выгодной вклад в евро!");
+                Console.WriteLine("Самый выгодный вклад в евро!");
             } else
             {
-                Console.WriteLine("Самый выгодной вклад в долларах!");
+                Console.WriteLine("Самый выгодный вклад в долларах!");
             }
         }
     }
