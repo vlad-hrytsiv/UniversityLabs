@@ -1,40 +1,39 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Task4
+namespace Task6
 {
-    class Task4
+    class Task6
     {
         static void Main(string[] args)
         {
-            int[] c = new int[79];
+            int[] c = new int[25];
             c = secondWay(c);
 
             Console.WriteLine("Initial array:");
-            for (int i = 0; i<c.Length; i++){
-                Console.Write(c[i]+" ");
+            for (int i = 0; i < c.Length; i++)
+            {
+                Console.Write(c[i] + " ");
             }
 
             c = SelectionSort(c);
-            
+
             Console.WriteLine("\n\nSorted array:");
 
-            for (int i = 0; i<c.Length; i++){
-                Console.Write(c[i]+" ");
+            for (int i = 0; i < c.Length; i++)
+            {
+                Console.Write(c[i] + " ");
             }
 
-            int evenSum = 0;
+            int prod = 1;
 
-            for (int i = 0; i<c.Length; i++){
-                if (c[i]%2==0){
-                    evenSum+=c[i];
+            for (int i = 0; i < c.Length; i++)
+            {
+                if (c[i] % 5 == 0)
+                {
+                    prod = prod * c[i];
                 }
             }
-
-            Console.WriteLine("\n\nSum of even elements: "+even_sum);
+            Console.WriteLine("\n\nProduct of all elements can be divided to 5: " + prod);
         }
 
         static int[] secondWay(int[] arrayOfNumbers)
