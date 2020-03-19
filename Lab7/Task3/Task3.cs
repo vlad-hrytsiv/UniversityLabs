@@ -10,14 +10,17 @@ namespace Task3
     {
         static void Main(string[] args)
         {
+            Random rand = new Random();
             int[] A = new int[9];
             int sum = 0;
             int positiveProd = 1;
 
             for (int i = 0; i<A.Length; i++)
             {
-                A[i] = i + 1;
+                A[i] = rand.Next(-10,10);
                 sum += A[i];
+
+                Console.Write(A[i]+" ");
 
                 if (A[i] > 0)
                 {
@@ -26,7 +29,7 @@ namespace Task3
             }
 
             double average = sum / A.Length;
-            Console.WriteLine("Average number: "+average);
+            Console.WriteLine("\nAverage number: "+average);
             Console.WriteLine("Product of positive numbers: "+positiveProd);
         }
     }

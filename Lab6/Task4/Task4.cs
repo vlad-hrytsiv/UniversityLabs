@@ -34,7 +34,7 @@ namespace Task4
                 }
             }
 
-            Console.WriteLine("\n\nSum of even elements: "+even_sum);
+            Console.WriteLine("\n\nSum of even elements: "+evenSum);
         }
 
         static int[] secondWay(int[] arrayOfNumbers)
